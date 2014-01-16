@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MobileGeeks Chrome Extension
 ===================
 
@@ -27,3 +28,9 @@ Let me thank at first Google. Its hard to code without at least one search reque
 
 
 [mg-link]: http://www.mobilegeeks.de
+=======
+ti-chrome-extension
+===================
+
+Fan-made, German and basic Google Chrome extension to get the latest receipts of Tomateninsel.
+>>>>>>> 72d347b7be4b9141711565196a1de5dfca9967a3
